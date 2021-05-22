@@ -18,7 +18,7 @@ pip3 install -r req.txt
 python3 main.py
 open names.csv
 ```
-To get idea about web page in organised way you can open web.txt
+To get idea about web page in organised way you can open web.html
 
 
 Link of scrapped page : https://www.espn.com/nfl/qbr
