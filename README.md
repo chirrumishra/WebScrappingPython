@@ -20,3 +20,5 @@ open names.csv
 ```
 To get idea about web page in organised way you can open web.txt
 
+
+Link of scrapped page : https://www.espn.com/nfl/qbr
