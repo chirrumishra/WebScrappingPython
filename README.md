@@ -1,5 +1,5 @@
 # WebScrappingPython
-This file is Scraps data from a Website (ESPN)for(American Football) and converts it into a csv file
+This file is Scraps data from a Website (ESPN) for (American Football) and converts it into a csv file
 required modules 
 
 ## How to execute program 
