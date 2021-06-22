@@ -18,6 +18,7 @@ pip3 install -r req.txt
 python3 main.py
 open names.csv
 ```
+
 To get idea about web page in organised way you can open web.txt in additional files folder
 
 
